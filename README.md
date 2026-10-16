@@ -8,16 +8,16 @@ The application processes input sentences, predicts the appropriate meaning of a
 
 ## 🚀 Key Features
 
-🔤 Text Tokenization and Vocabulary Generation  
-📚 Dataset Preparation for Ambiguous Words  
-🧠 Bidirectional LSTM-based Word Sense Disambiguation  
-🔄 Bidirectional GRU-based Word Sense Disambiguation  
-🎯 Attention Mechanism for Context Representation  
-📊 Training Loss and Accuracy Evaluation  
-🔍 Context-Based Word Sense Prediction  
-📈 Prediction Confidence and Sense Probabilities  
-🔦 Attention Scores for Understanding Contextual Importance  
-🧪 Test Cases for Ambiguous Words  
+1. Text Tokenization and Vocabulary Generation  
+2. Dataset Preparation for Ambiguous Words  
+3. Bidirectional LSTM-based Word Sense Disambiguation  
+4. Bidirectional GRU-based Word Sense Disambiguation  
+5. Attention Mechanism for Context Representation  
+6. Training Loss and Accuracy Evaluation  
+7. Context-Based Word Sense Prediction  
+8. Prediction Confidence and Sense Probabilities  
+9. Attention Scores for Understanding Contextual Importance  
+10. Test Cases for Ambiguous Words  
 
 ## 🛠️ Technologies Used
 
